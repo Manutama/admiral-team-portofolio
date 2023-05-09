@@ -3,6 +3,6 @@
 
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/mayv9462/repositories/admiral-team-portofolio
+    - export DEPLOYPATH=/home/mayv9462/public_html/reposite-admiral
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
